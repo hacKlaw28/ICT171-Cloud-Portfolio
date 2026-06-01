@@ -1,20 +1,22 @@
-# ICT171-Cloud-Portfolio
-ICT171 Cloud Portfolio Website hosted on AWS EC2 with DNS, HTTPS and Linux server administration.
 # ICT171 Cloud Portfolio Project
 
-# Student Details
+## Student Information
 
 Name: Fahad Hossain
+
+Student Number: 35761558
 
 GitHub Username: hacKlaw28
 
 Unit: ICT171 – Introduction to Server Environments and Architectures
 
-# Project Overview
+## Project Overview
 
-This project demonstrates the deployment and management of a cloud-hosted portfolio website using Amazon Web Services (AWS). The website is hosted on an Ubuntu Linux server running Apache2 on an AWS EC2 instance.
+This project demonstrates the deployment and management of a cloud-hosted portfolio website using Amazon Web Services (AWS).
 
-The project includes:
+The website is hosted on an Ubuntu Linux server running Apache2 on an AWS EC2 instance.
+
+The project demonstrates:
 
 * AWS EC2 cloud hosting
 * Ubuntu Linux server administration
@@ -22,14 +24,14 @@ The project includes:
 * DNS configuration using DuckDNS
 * HTTPS implementation using Let's Encrypt SSL certificates
 * Portfolio website development using HTML and CSS
-* Python server monitoring script
-* GitHub documentation and version control
+* GitHub version control and documentation
+* Python server monitoring and logging
 
-# Website URL
+## Website URL
 
 https://fahadhossainportfolio.duckdns.org
 
-# Things used to accomplish this
+## Technologies Used
 
 * AWS EC2
 * Ubuntu Linux
@@ -41,16 +43,28 @@ https://fahadhossainportfolio.duckdns.org
 * GitHub
 * Python
 
-# Project Status -
+## Project Components
 
-Component 1 – Portfolio Website ✅
+### Component 1 – Portfolio Website
 
-Component 2 – HTTPS ✅
+A personal portfolio website hosted on AWS EC2 showcasing technical skills, cloud computing knowledge and completed projects.
 
-Component 3 – DNS ✅
+### Component 2 – HTTPS
 
-Component 4 – Python Monitoring Script 🔄
+SSL/TLS encryption implemented using Let's Encrypt certificates to secure communications between the client and server.
 
-Component 5 – GitHub Documentation 🔄
+### Component 3 – DNS
 
-Component 6 – Video Explainer 🔄
+DuckDNS was configured to provide a custom domain name that points to the AWS EC2 instance.
+
+### Component 4 – Python Monitoring Script
+
+A Python script will be used to monitor server resources including CPU, memory and disk utilisation.
+
+### Component 5 – GitHub Documentation
+
+GitHub is used for project documentation, version control and evidence collection throughout the project lifecycle.
+
+### Component 6 – Video Explainer
+
+A video demonstration explaining the implementation, configuration and functionality of the cloud server project.
