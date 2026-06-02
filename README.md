@@ -16,7 +16,7 @@ This project demonstrates the deployment and management of a cloud-hosted portfo
 
 The website is hosted on an Ubuntu Linux server running Apache2 on an AWS EC2 instance.
 
-The project demonstrates:
+The project demonstrates the following:
 
 * AWS EC2 cloud hosting
 * Ubuntu Linux server administration
@@ -51,15 +51,15 @@ A personal portfolio website hosted on AWS EC2 showcasing technical skills, clou
 
 ### Component 2 – HTTPS
 
-SSL/TLS encryption implemented using Let's Encrypt certificates to secure communications between the client and server.
+SSL/TLS encryption is implemented using Let's Encrypt certificates to secure communications between the client and server.
 
 ### Component 3 – DNS
 
-DuckDNS was configured to provide a custom domain name that points to the AWS EC2 instance.
+DuckDNS was configured to point a custom domain name to the AWS EC2 instance.
 
 ### Component 4 – Python Monitoring Script
 
-A Python script will be used to monitor server resources including CPU, memory and disk utilisation.
+A Python script will be used to monitor server resources, including CPU, memory and disk utilisation.
 
 ### Component 5 – GitHub Documentation
 
