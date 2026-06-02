@@ -16,7 +16,7 @@ The script monitors server storage utilisation and records the results in a log 
 * Displays current date and time
 * Calculates disk usage percentage
 * Saves results to a log file
-* Provides an easy and simple monitoring solution for server administration
+* Lastly provides an easy and simple monitoring solution for server administration
 
 ## How to Run
 
