@@ -16,7 +16,7 @@ This project demonstrates the deployment and management of a cloud-hosted portfo
 
 The website is hosted on an Ubuntu Linux server running Apache2 on an AWS EC2 instance.
 
-The project demonstrates the following: AWS EC2 cloud hosting, Ubuntu Linux Server Administration, Apache2 web server configuration, DNS configuration using DuckDNS, HTTPS implementation using Let's Encrypt SSL Certificates, Portfolio website development using HTML and CSS, GitHub documentation, Python server monitoring, as well as logging.
+The project demonstrates the following: AWS EC2 cloud hosting, Ubuntu Linux Server Administration, Apache2 web server configuration, DNS configuration with DuckDNS, HTTPS implementation with Let's Encrypt SSL Certificates, Portfolio website development with HTML and CSS, GitHub documentation, Python server monitoring, and logging.
 
 
 ## Website URL: https://fahadhossainportfolio.duckdns.org/
@@ -26,7 +26,7 @@ The project demonstrates the following: AWS EC2 cloud hosting, Ubuntu Linux Serv
 
 ## All project parts broken down for easier clarification:
 
-Part 1- Portfolio Website: A personal portfolio website hosted on AWS EC2 showcasing all the technical skills, cloud computing knowledge, as well as showing the experiences gained during the course time period so far.
+##Part 1- Portfolio Website: A personal portfolio website hosted on AWS EC2 showcasing all the technical skills, cloud computing knowledge, as well as showing the experiences gained during the course time period so far.
 
 ## Part 2: HTTPS; SS:/TLS Encryption is implemented using Let's Encrypt certifications to secure the integrity and confidentiality between the client and server.
 
