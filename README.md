@@ -16,55 +16,26 @@ This project demonstrates the deployment and management of a cloud-hosted portfo
 
 The website is hosted on an Ubuntu Linux server running Apache2 on an AWS EC2 instance.
 
-The project demonstrates the following:
+The project demonstrates the following: AWS EC2 cloud hosting, Ubuntu Linux Server Administration, Apache2 web server configuration, DNS configuration using DuckDNS, HTTPS implementation using Let's Encrypt SSL Certificates, Portfolio website development using HTML and CSS, GitHub documentation, Python server monitoring, as well as logging.
 
-* AWS EC2 cloud hosting
-* Ubuntu Linux server administration
-* Apache2 web server configuration
-* DNS configuration using DuckDNS
-* HTTPS implementation using Let's Encrypt SSL certificates
-* Portfolio website development using HTML and CSS
-* GitHub version control and documentation
-* Python server monitoring and logging
 
-## Website URL
+## Website URL: https://fahadhossainportfolio.duckdns.org/
 
-https://fahadhossainportfolio.duckdns.org
 
-## Technologies Used
+## Things I have used for this project: AWS EC2, Ubuntu Linux, Apache2, HTML, CSS, DuckDNS, Let's Encrypt, Github and lastly Python
 
-* AWS EC2
-* Ubuntu Linux
-* Apache2
-* HTML
-* CSS
-* DuckDNS
-* Let's Encrypt
-* GitHub
-* Python
+## All project parts broken down for easier clarification:
 
-## Project Components
+Part 1- Portfolio Website: A personal portfolio website hosted on AWS EC2 showcasing all the technical skills, cloud computing knowledge, as well as showing the experiences gained during the course time period so far.
 
-### Component 1 – Portfolio Website
+## Part 2: HTTPS; SS:/TLS Encryption is implemented using Let's Encrypt certifications to secure the integrity and confidentiality between the client and server.
 
-A personal portfolio website hosted on AWS EC2 showcasing technical skills, cloud computing knowledge and completed projects.
+## Part 3 - DNS: DuckDNS was configured to point a custom domain name to the AWS EC2 instance.
 
-### Component 2 – HTTPS
+## Part 4 - The Python Monitoring Script: The script will monitor disk utilisation and display the time and date of the process.
 
-SSL/TLS encryption is implemented using Let's Encrypt certificates to secure communications between the client and server.
+## Part 5 - GitHub Documentation: It is used for project documentation and evidence collection throughout the build of this project.
 
-### Component 3 – DNS
-
-DuckDNS was configured to point a custom domain name to the AWS EC2 instance.
-
-### Component 4 – Python Monitoring Script
-
-A Python script will be used to monitor server resources, including CPU, memory and disk utilisation.
-
-### Component 5 – GitHub Documentation
-
-GitHub is used for project documentation, version control and evidence collection throughout the project lifecycle.
-
-### Component 6 – Video Explainer
+## Part 6 - Lastly, a video demonstration was provided explaining how the entire project was implemented, the configuration, and the functionality of the cloud server.
 
 A video demonstration explaining the implementation, configuration and functionality of the cloud server project.
